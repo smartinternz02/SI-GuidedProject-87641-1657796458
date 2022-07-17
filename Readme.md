@@ -7,6 +7,11 @@ An automated system is introduced to identify different diseases on plants by ch
 
 # [ As we are unable to upload All the files to git we pushed it to drive and here is the link  ]
 
+
+  # [ Demo Link: http://127.0.0.1:5000/ ]
+  
+
+
 ====>
 
 # DEMO VIDEO LINK:
