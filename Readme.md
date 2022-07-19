@@ -56,4 +56,4 @@ You can use this project for further developing it and adding your work in it. I
 ====>https://drive.google.com/drive/folders/1uQchp6xjOlfIM19ig9uESq3z6x7kSfik?usp=sharing
 
 # DEMO VIDEO LINK:
-==> https://drive.google.com/file/d/1-RGf0bNRl6_YSKoj9oOpkxkUeok_WAqv/view?usp=sharing
+==> https://drive.google.com/file/d/1p2G30tXoO2kqglP1dqY4D6EIYQzCG8gm/view?usp=sharing
